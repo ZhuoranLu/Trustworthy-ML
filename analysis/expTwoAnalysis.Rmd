@@ -27,6 +27,11 @@ summary(agreementFractionRes)
 TukeyHSD(agreementFractionRes, ordered = TRUE)
 ```
 ```{r}
+trustSurveyRes <- aov(trustSurvey ~ acc*idpAgreement, data = data)
+summary(trustSurveyRes)
+TukeyHSD(trustSurveyRes, ordered = TRUE)
+```
+```{r}
 data["switchFractionScaled"] = apply(data["switchFraction"],2,function(x) {(x+0.0001)/1.0002})
 data["agreementFractionScaled"] = apply(data["agreementFraction"],2,function(x) {(x+0.0001)/1.0002})
 part2 = betareg(switchFractionScaled~idpAgreement*acc, data=data)
