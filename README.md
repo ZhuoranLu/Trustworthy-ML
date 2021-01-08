@@ -52,12 +52,11 @@ Here attached a sample of the data of answers made by subjects to the questionna
 `1` indicates "The dating participant wants to see the date again." `0` indicates "The dating participant wants to see the date again."
 
 
-| workerID | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | surveyTrust| 
-| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | ---------- | 
-| 94 | 70 | 80 | 5 | 3 | 5 | 7| 5| 
+| workerID | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | treatment | time        | surveyTrust |
+| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | --------- | ----------- | ----------- |
+| 94 | 70 | 80 | 5 | 3 | 5 | 7| 0 | Tue May 12 2020 155846 GMT-0500 (Central Daylight Time) | 5 | 
 
 * `workerId` Int. The unique ID for each subject assigned in each experiment.
-* `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
 * `humanPredictAccuracy` Int. How accurate did the subject think the model was between 0 to 100.
 * `humanPredictSelfAccuracy` Int. How accurate did the subject think she was between 0 to 100.
 * `reliability` Int. The subject's rating on the ML model's reliability between 1 to 7.
@@ -65,11 +64,11 @@ Here attached a sample of the data of answers made by subjects to the questionna
 * `competence` Int. The subject's rating on the ML model's competence between 1 to 7. 
 * `understandability` Int. The subject's rating on the ML model's understandability between 1 to 7. 
 * `surveyTrust` Int. The subject's rating on her overall trust in the ML model between 1 to 7.
+* `treatment` Int. Same as previously mentioned in prediction records.
 
-For questionnaires in Experiment 1 and 2, they are also similar to those in experiment 3 and have fewer columns since some perceptions are not measured due to the experiment design. Except that on a 7-point Likert scale, we considered subjects who provided a rating of 1–3 asdisagreeing with the statement and encode them as 1. For subjects who provided a rating of 5–7 as agreeing with the statement and encoded them to 1. Due to a mistake in Experiments 1 and 2, for subject’s evaluationson the competence, reliability, understandability, and faith statements, ratings of 6 and 7 were all recorded as 5.
+For questionnaires in Experiment 1 and 2, they are also similar to those in experiment 3, except that on a 7-point Likert scale, we considered subjects who provided a rating of 1–3 asdisagreeing with the statement and encode them as 1. For subjects who provided a rating of 5–7 as agreeing with the statement and encoded them to 1. Due to a mistake in Experiments 1 and 2, for subject’s evaluationson the competence, reliability, understandability, and faith statements, ratings of 6 and 7 were all recorded as 5.
 
-
-
+Additionally, some perceptions are not measured in Experiment 1 and 2 due to the experiment design and `acc` and `idpAgreement` are used to indicate different experimental groups, which is similar as mentioned in prediction records.
 
 
 ## Licensing & Citing
