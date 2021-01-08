@@ -21,10 +21,9 @@ Each file in `data` and `analysis` starting with "experimentOne","experimentTwo"
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-| workerID| idpAgreement   | taskId | profile  | globalId  | decision | selfPrediction |finalPrediction|selfCorrect|finalCorrect|agreement|time|prediction|finalAgreement|mlCorrect|switch|
-| ---------------------------------- | ---------------------------------------------- | -------- | ------------------------------------------------------------ | ---------- | ---------- | ------------------------------- |
-| Vibrating mesh transducer (VMT)    | 16 mm diameter; ~110±5 kHz operating frequency | 1        | [Comidox](https://www.amazon.com/Comidox-Ultrasonic-Transducer-Humidifier-Replacement/dp/B07P8C5V7W/) | $3.00      | $6.00      | Supplier sells in pairs.        |
-| Transducer Driver Board            | Grove Water Atomization v1.0                   | 1        | [Seeed Studio](https://www.seeedstudio.com/Grove-Water-Atomization-v1-0.html) | $10.00     | $10.00     | 
+| workerID | idpAgreement | taskId | profile | globalId | decision | selfPrediction| finalPrediction| selfCorrect| finalCorrect | agreement | time | prediction | finalAgreement | mlCorrect | switch |
+| -------- | ------------ | -------| ------- | -------- | -------- | ------------- | -------------- | ---------- | ------------ | --------- | ---- | ---------- | -------------- |------------- |------------- |
+| 1 | 40 | 4 | 26 | 734 | 1 | 1| 0| FALSE| FALSE | 0 | Mon Feb 10 2020 171422 GMT-0500 (Eastern Standard Time) | 1 | TRUE | TRUE | TRUE |
 
 ## Licensing & Citing
 When using or building upon the data in an academic publication, please consider citing as follows:
