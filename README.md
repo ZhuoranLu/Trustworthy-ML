@@ -6,8 +6,6 @@ This is a repository for the data and analysis code for the paper "Human Relianc
 
 ## Repository Structure
 
-* `rawData` contains the profiles of the speed dating tasks used in the experiments, and raw data dumped from the experiment procedure.
-
 * `data` contains the cleaned data including the predictions of tasks and answers to the questionnaire given by subjects.
 
 * `analysis` contains the analysis code implemented by python and R via jupyter notebook and R markdown.
