@@ -23,7 +23,32 @@ Here attached a sample of the data of predictions made by subjects. Each row is 
 
 | workerID | idpAgreement | taskId | profile | globalId | decision | selfPrediction| finalPrediction| selfCorrect| finalCorrect | agreement | time                    | prediction | finalAgreement | mlCorrect | switch |
 | -------- | ------------ | -------| ------- | -------- | -------- | ------------- | -------------- | ---------- | ------------ | --------- | --------------------------- | ---------- | -------------- |------------- |------------- |
-| 1 | 40 | 4 | 26 | 734 | 1 | 1| 0| FALSE| FALSE | 0 | Mon Feb 10 2020 171422 GMT-0500 (Eastern Standard Time) | 1 | TRUE | TRUE | TRUE |
+| 94 | 100 | 4 | 26 | 734 | 0 | 1| 1| FALSE| FALSE | 1 | Mon Feb 10 2020 171422 GMT-0500 (Eastern Standard Time) | 1 | TRUE | FALSE | FALSE |
+
+* `workerId` Int. The unique for each subject
+* `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
+* `taskId` Int. The 
+* `profile` Int. The unique profile ID of the dating profile observed by the subject in each task, corresponding to each dating profile.
+* `globalId` Int. Another unique profile ID of the dating profile.
+* `decision` Int. The ground truth of the dating profile used in the task. 
+* `selfPrediction` Int. The prediction given by the subject before she observe the ML model's prediction.
+* `finalPrediction` Int. The prediction given by the subject after she observe the ML model's prediction.
+* `finalCorrect` Bool. Whether the final prediction given by the subject is correct or not.
+* `agreement` Bool. Whether the initial prediction given by the subject is the same as the ML model's prediction.
+* `time` Str. The time that the subject submitted on the task.
+* `prediction` Int. The prediction given by the ML model in this task.
+* `finalAgreement` Bool. Whether the final prediction given by the subject is the same as the ML model's prediction.
+* `mlCorrect` Bool. Whether the ML model's prediction is correct on this task.
+* `switch` Bool. Whether the subject switched her prediction after observing the ML model's prediction.
+
+Here attached a sample of the data of answers made by subjects to the questionnaire during the experiments. Each row is a piece of record on a subject answering questionnairs.
+
+`1` indicates "The dating participant wants to see the date again." `0` indicates "The dating participant wants to see the date again."
+
+
+| workerID | idpAgreement | humanPredictAccuracy | faith | competence | understandability | surveyTrust| 
+| -------- | ------------ | ---------------------| ----- | ---------- | ----------------- | ---------- | 
+| 94 | 100 | 80 | 5 | 3 | 5 | 7| 5| 
 
 * `workerId` Int. The unique for each subject
 * `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
