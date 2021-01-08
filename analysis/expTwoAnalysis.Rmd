@@ -11,9 +11,6 @@ agree50acc50 = data[data$idpAgreement==50 &data$acc==50 ,]
 agree50acc80 = data[data$idpAgreement==50 &data$acc==80 ,]
 agree80acc50 = data[data$idpAgreement==80 &data$acc==50 ,]
 agree80acc80 = data[data$idpAgreement==80 &data$acc==80 ,]
-# data[data$idpAgreement==50 &&data$acc==80 ,]
-
-
 data$idpAgreement = as.factor(data$idpAgreement)
 data$acc = as.factor(data$acc)
 data$treatment = as.factor(data$treatment)
@@ -28,6 +25,14 @@ TukeyHSD(switchFractionRes, ordered = TRUE)
 agreementFractionRes <- aov(agreementFraction ~ acc*idpAgreement, data = data)
 summary(agreementFractionRes)
 TukeyHSD(agreementFractionRes, ordered = TRUE)
+```
+```{r}
+data["switchFractionScaled"] = apply(data["switchFraction"],2,function(x) {(x+0.0001)/1.0002})
+data["agreementFractionScaled"] = apply(data["agreementFraction"],2,function(x) {(x+0.0001)/1.0002})
+part2 = betareg(switchFractionScaled~idpAgreement*acc, data=data)
+summary(part2)
+part2 = betareg(agreementFractionScaled~idpAgreement*acc, data=data)
+summary(part2)
 ```
 
 

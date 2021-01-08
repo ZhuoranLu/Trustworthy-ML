@@ -51,6 +51,25 @@ anova("trustSurvey",0,8)
 
 ```
 ```{r}
+beta_regression = function(data,lowerBound,upperBound){
+  hahd = data[data$treatment==0 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  hald = data[data$treatment==1 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  lahd = data[data$treatment==2 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  lald = data[data$treatment==3 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  newData <- rbind(hahd,hald,lahd,lald)
+  newData$treatment = as.factor(newData$treatment)
+  newData$isHA = as.factor(newData$isHA)
+  newData$isHD = as.factor(newData$isHD)
+  newData["switchFractionScaled"] = apply(newData["switchFraction"],2,function(x) {(x+0.0001)/1.0002})
+  newData["agreementFractionScaled"] = apply(newData["agreementFraction"],2,function(x) {(x+0.0001)/1.0002})
+  part2 = betareg(switchFractionScaled~c(isHA)*c(isHD), data=newData)
+  print(summary(part2))
+  part2 = betareg(agreementFractionScaled~isHA*isHD, data=newData)
+  print(summary(part2))
+}
+beta_regression(data,0,8)
+```
+```{r}
 library(effsize)
 cohen.d(switchFraction~isHD,data=data)
 cohen.d(agreementFraction~isHD,data=data)

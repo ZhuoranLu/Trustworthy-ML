@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r}
-data<-read.table('exp1Res1125.csv',header=TRUE,sep=',')
+data<-read.table('../data/exp1Res1125.csv',header=TRUE,sep=',')
 low = data[data$idpAgreement==40,]
 medium = data[data$idpAgreement==70,]
 high = data[data$idpAgreement==100,]
@@ -31,18 +31,24 @@ aovTest("actualAgreement")
 
 ### Main claim 
 ```{r}
-# aovTest("switchFraction")
-# aovTest("agreementFraction")
-# cohen.d(data[data$idpAgreement!=70,]$switchFraction, data[data$idpAgreement!=70,]$idpAgreement)
-# cohen.d(data[data$idpAgreement!=70,]$agreementFraction, data[data$idpAgreement!=70,]$idpAgreement)
+aovTest("agreementFraction")
+aovTest("switchFraction")
+```
+### Main claim non-parametric
+```{r}
+library(betareg)
+data["switchFractionScaled"] = apply(data["switchFraction"],2,function(x) {(x+0.0001)/1.0002})
+data["agreementFractionScaled"] = apply(data["agreementFraction"],2,function(x) {(x+0.0001)/1.0002})
+part2 = betareg(switchFractionScaled~c(idpAgreement), data=data)
+summary(part2)
+part2 = betareg(agreementFractionScaled~c(idpAgreement), data=data)
+summary(part2)
+```
 
-# cohen.d(data,"gender")
-# cohen.d(c(high$switchFraction,low$switchFraction),f=c(rep("Treatment",,each=80),rep("control",each=108)))
-cohen.d(switchFraction~idpAgreement,data=data)
+```{r}
+kruskal.test(switchFraction ~ idpAgreement, data = data)
+kruskal.test(agreementFraction ~ idpAgreement, data = data)
 
-# library(lsr)
-# cohensD(data$idpAgreement,data$switchFraction)
-# cohensD(data[data$idpAgreement!=70,]$switchFraction, data[data$idpAgreement!=70,]$idpAgreement)
 ```
 ### Supporting variables
 ```{r}
