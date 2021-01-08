@@ -1,0 +1,57 @@
+---
+title: "exp3Analysis1125"
+author: "zhuoran4"
+date: "12/29/2020"
+output: html_document
+---
+
+```{r}
+library(multcomp)
+library(multcompView)
+data<-read.table('../data/exp3res1125.csv',header=TRUE,sep=',')
+
+anova = function(measure,lowerBound,upperBound){
+  hahd = data[data$treatment==0 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  hald = data[data$treatment==1 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  lahd = data[data$treatment==2 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  lald = data[data$treatment==3 & data$actualAgreement<=upperBound & data$actualAgreement>=lowerBound,  ]
+  newData <- rbind(hahd,hald,lahd,lald)
+  newData$treatment = as.factor(newData$treatment)
+  newData$isHA = as.factor(newData$isHA)
+  newData$isHD = as.factor(newData$isHD)
+  newData$treatmentLabel = as.factor(newData$treatmentLabel)
+
+  formula = as.formula(paste(measure,"c(isHA)*c(isHD)",sep="~"))
+
+  print(c(nrow(hahd),nrow(hald),nrow(lahd),nrow(lald)))
+
+  aovRes <- aov(as.formula(paste(measure,"treatmentLabel",sep="~")), data = newData)
+
+
+  aovRes2 <- aov(formula, data = newData)
+
+
+  tukeyRes = TukeyHSD(aovRes, "treatmentLabel" , ordered = TRUE)
+  print(summary(aovRes2))
+  print(summary(aovRes))
+  print(tukeyRes)
+
+}
+
+anova("switchFraction",0,8)
+anova("agreementFraction",0,8)
+
+```
+```{r}
+anova("competence",0,8)
+anova("faith",0,8)
+anova("understandability",0,8)
+anova("reliability",0,8)
+anova("trustSurvey",0,8)
+
+```
+```{r}
+library(effsize)
+cohen.d(switchFraction~isHD,data=data)
+cohen.d(agreementFraction~isHD,data=data)
+```
