@@ -52,9 +52,9 @@ Here attached a sample of the data of answers made by subjects to the questionna
 `1` indicates "The dating participant wants to see the date again." `0` indicates "The dating participant wants to see the date again."
 
 
-| workerID | idpAgreement | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | surveyTrust| 
-| -------- | ------------ | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | ---------- | 
-| 94 | 100 | 80 | 5 | 3 | 5 | 7| 5| 
+| workerID | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | surveyTrust| 
+| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | ---------- | 
+| 94 | 70 | 80 | 5 | 3 | 5 | 7| 5| 
 
 * `workerId` Int. The unique ID for each subject assigned in each experiment.
 * `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
