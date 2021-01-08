@@ -15,6 +15,11 @@ This is a repository for the data and analysis code for the paper "Human Relianc
 Each file in `data` and `analysis` starting with "experimentOne","experimentTwo", "experimentThree", are each corresponding to the Experiment 1, 2, 3 in the paper.
 
 ## Data Sample
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 | workerID| idpAgreement   | taskId | profile  | globalId  | decision | selfPrediction |finalPrediction|selfCorrect|finalCorrect|agreement|time|prediction|finalAgreement|mlCorrect|switch|
 | ---------------------------------- | ---------------------------------------------- | -------- | ------------------------------------------------------------ | ---------- | ---------- | ------------------------------- |
