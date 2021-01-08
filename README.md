@@ -42,7 +42,9 @@ Here attached a data sample of predictions made by subjects in Experiment 1. Eac
 * `switch` Bool. Whether the subject switched her prediction after observing the ML model's prediction.
 
 Subjects' predictions in Experiment 2 and 3 are similar to those in Experiment 1. Due to the different experiment designs, there can be additional columns in the data as follow:
+
 In Experiment 2: * `acc` Int. The designed accuracy of the ML model's predictions in Phase 1 of the experiment.
+
 In Experiment 3: * `treatment` Int. The designed experimental group of the subject. `0` indicates high confidence agreement - high confidence disagreement group, `1` indicates high confidence agreement - low confidence disagreement group, `2` indicates low confidence agreement - high confidence disagreement group, `0` indicates low confidence agreement - low confidence disagreement group.
 
 Here attached a sample of the data of answers made by subjects to the questionnaire during the Experiment 3. Each row is a piece of record on a subject answering questionnairs.
