@@ -23,7 +23,7 @@ Here attached a data sample of predictions made by subjects in Experiment 1. Eac
 | -------- | ------------ | -------| ------- | -------- | -------- | ------------- | -------------- | ---------- | ------------ | --------- | --------------------------- | ---------- | -------------- |------------- |------------- |
 | 94 | 100 | 4 | 26 | 734 | 0 | 1| 1| FALSE| FALSE | 1 | Mon Feb 10 2020 171422 GMT-0500 (Eastern Standard Time) | 1 | TRUE | FALSE | FALSE |
 
-* `workerId` Int. The unique for each subject assigned in each experiment.
+* `workerId` Int. The unique ID for each subject assigned in each experiment.
 * `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
 * `taskId` Int. The 
 * `profile` Int. The unique profile ID of the dating profile observed by the subject in each task, corresponding to each dating profile.
