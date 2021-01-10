@@ -6,7 +6,7 @@ This is a repository for the data and analysis code for the paper "Human Relianc
 
 ## Repository Structure
 
-* `data` contains the cleaned data including the predictions of tasks and answers to the questionnaire given by subjects.
+* `data` contains 1: the cleaned data including the predictions of tasks and answers to the questionnaire given by subjects 2:`datingData` the raw data of dating profiles and the instances selected for the pilot study.
 
 * `analysis` contains the analysis code implemented by python and R via jupyter notebook and R markdown.
 
