@@ -19,13 +19,13 @@ Here attached a data sample of predictions made by subjects in Experiment 1. Eac
 `1` indicates "The dating participant wants to see the date again." `0` indicates "The dating participant wants to see the date again."
 
 
-| workerID | idpAgreement | taskId | profile | globalId | decision | selfPrediction| finalPrediction| selfCorrect| finalCorrect | agreement | time                    | prediction | finalAgreement | mlCorrect | switch |
-| -------- | ------------ | -------| ------- | -------- | -------- | ------------- | -------------- | ---------- | ------------ | --------- | --------------------------- | ---------- | -------------- |------------- |------------- |
-| 94 | 100 | 4 | 26 | 734 | 0 | 1| 1| FALSE| FALSE | 1 | Mon Feb 10 2020 171422 GMT-0500 (Eastern Standard Time) | 1 | TRUE | FALSE | FALSE |
+| workerID | idpAgreement | taskId | profile | globalId | decision | selfPrediction| finalPrediction| selfCorrect| finalCorrect | agreement | prediction | finalAgreement | mlCorrect | switch |
+| -------- | ------------ | -------| ------- | -------- | -------- | ------------- | -------------- | ---------- | ------------ | --------- | ---------- | -------------- |------------- |------------- |
+| 94 | 100 | 4 | 26 | 734 | 0 | 1| 1| FALSE| FALSE | 1 | 1 | TRUE | FALSE | FALSE |
 
 * `workerId` Int. The unique ID for each subject assigned in each experiment.
 * `idpAgreement` Int. The three different agreement levels of each experimental group, indicating the ML model in this group was designed to agree with the majority of people on idpAgreement percent (e.g., 40%).
-* `taskId` Int. The 
+* `taskId` Int. The order number of the task among the experiment.
 * `profile` Int. The unique profile ID of the dating profile observed by the subject in each task, corresponding to each dating profile.
 * `globalId` Int. Another unique profile ID of the dating profile.
 * `decision` Int. The ground truth of the dating profile used in the task. 
@@ -33,7 +33,6 @@ Here attached a data sample of predictions made by subjects in Experiment 1. Eac
 * `finalPrediction` Int. The prediction given by the subject after she observe the ML model's prediction.
 * `finalCorrect` Bool. Whether the final prediction given by the subject is correct or not.
 * `agreement` Bool. Whether the initial prediction given by the subject is the same as the ML model's prediction.
-* `time` Str. The time that the subject submitted on the task.
 * `prediction` Int. The prediction given by the ML model in this task.
 * `finalAgreement` Bool. Whether the final prediction given by the subject is the same as the ML model's prediction.
 * `mlCorrect` Bool. Whether the ML model's prediction is correct on this task.
@@ -50,9 +49,9 @@ Here attached a sample of the data of answers made by subjects to the questionna
 `1` indicates "The dating participant wants to see the date again." `0` indicates "The dating participant wants to see the date again."
 
 
-| workerID | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | treatment | time        | surveyTrust |
-| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | --------- | ----------- | ----------- |
-| 94 | 70 | 80 | 5 | 3 | 5 | 7| 0 | Tue May 12 2020 155846 GMT-0500 (Central Daylight Time) | 5 | 
+| workerID | humanPredictAccuracy | humanPredictSelfAccuracy | reliability | faith | competence | understandability | treatment | surveyTrust |
+| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | --------- | ----------- |
+| 94 | 70 | 80 | 5 | 3 | 5 | 7| 0 | 5 | 
 
 * `workerId` Int. The unique ID for each subject assigned in each experiment.
 * `humanPredictAccuracy` Int. How accurate did the subject think the model was between 0 to 100.
