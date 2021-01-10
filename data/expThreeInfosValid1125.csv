@@ -1,403 +1,403 @@
-,workerId,humanPredictAccuracy,humanPredictSelfAccuracy,reliability,faith,competence,understandability,treatment,time,surveyTrust
-0,237,90,80,6,4,6,6,1,Tue May 12 2020 155846 GMT-0500 (Central Daylight Time),6
-2,80,50,70,3,4,2,4,0,Tue May 12 2020 111858 GMT-0700 (Pacific Daylight Time),4
-4,110,60,90,3,4,2,3,0,Tue May 12 2020 160116 GMT-0500 (Central Daylight Time),2
-5,259,90,80,4,1,4,5,2,Tue May 12 2020 103851 GMT-0600 (Mountain Daylight Time),6
-7,368,4,5,3,4,2,2,2,Mon May 11 2020 125234 GMT-0700 (Pacific Daylight Time),3
-9,25,50,80,5,4,6,4,3,Wed May 13 2020 103009 GMT-0500 (Central Daylight Time),3
-11,335,60,80,3,4,5,6,2,Mon May 11 2020 131812 GMT-0700 (Pacific Daylight Time),5
-12,278,70,70,4,3,7,4,2,Tue May 12 2020 114632 GMT-0700 (Pacific Daylight Time),4
-14,247,100,100,3,2,2,3,0,Tue May 12 2020 142811 GMT-0400 (Eastern Daylight Time),7
-15,172,100,70,5,7,5,7,3,Mon May 11 2020 162143 GMT-0500 (Central Daylight Time),5
-17,137,75,65,5,5,6,6,3,Tue May 12 2020 080155 GMT-0700 (Pacific Daylight Time),7
-20,118,65,55,5,6,5,5,3,Tue May 12 2020 090915 GMT-1000 (Hawaii-Aleutian Standard Time),4
-23,308,80,50,5,4,6,7,3,Mon May 11 2020 135204 GMT-0700 (Pacific Daylight Time),5
-28,75,75,85,3,2,3,4,2,Tue May 12 2020 155229 GMT-0500 (Central Daylight Time),3
-29,302,100,60,7,2,5,7,1,Tue May 12 2020 113953 GMT-0700 (Pacific Daylight Time),7
-30,40,85,90,4,6,5,4,2,Mon May 11 2020 125326 GMT-0700 (Pacific Daylight Time),4
-34,65,80,90,5,5,5,5,0,Wed May 13 2020 122256 GMT-0400 (Eastern Daylight Time),5
-35,315,45,65,2,4,2,2,2,Tue May 12 2020 160814 GMT-0400 (Eastern Daylight Time),5
-41,347,83,92,5,5,5,7,0,Wed May 13 2020 112459 GMT-0500 (Central Daylight Time),3
-45,143,98,85,6,7,7,7,3,Mon May 11 2020 174547 GMT-0400 (Eastern Daylight Time),7
-46,134,90,67,7,5,5,5,3,Mon May 11 2020 102411 GMT-0400 (Eastern Daylight Time),6
-47,224,80,75,6,6,5,2,1,Tue May 12 2020 143621 GMT-0400 (Eastern Daylight Time),5
-49,359,70,80,7,6,6,3,2,Tue May 12 2020 121635 GMT-0700 (Pacific Daylight Time),7
-52,16,90,90,2,4,5,4,2,Wed May 13 2020 085829 GMT-0700 (Pacific Daylight Time),3
-56,53,70,90,5,4,6,5,3,Mon May 11 2020 121217 GMT-0400 (Eastern Daylight Time),6
-64,144,80,90,5,1,6,7,1,Tue May 12 2020 155716 GMT-0400 (Eastern Daylight Time),6
-65,66,90,85,4,4,6,4,0,Tue May 12 2020 143611 GMT-0500 (Central Daylight Time),5
-69,240,50,75,2,3,1,3,2,Tue May 12 2020 155135 GMT-0400 (Eastern Daylight Time),3
-71,133,80,85,3,3,2,3,0,Mon May 11 2020 110532 GMT-0400 (Eastern Daylight Time),3
-72,3,60,70,4,6,3,7,3,Mon May 11 2020 111728 GMT-0700 (Pacific Daylight Time),5
-75,154,70,80,3,5,6,6,0,Mon May 11 2020 115946 GMT-0400 (Eastern Daylight Time),5
-76,26,85,90,5,4,5,2,1,Tue May 12 2020 095204 GMT-0700 (Pacific Daylight Time),6
-77,275,100,100,6,5,6,3,3,Mon May 11 2020 125057 GMT-0700 (Pacific Daylight Time),7
-79,203,65,55,7,4,7,5,3,Tue May 12 2020 124216 GMT-0400 (Eastern Daylight Time),7
-80,46,85,90,3,1,4,5,2,Tue May 12 2020 141258 GMT-0700 (Pacific Daylight Time),3
-84,390,40,89,4,4,1,3,0,Mon May 11 2020 174307 GMT-0800 (Alaska Daylight Time),4
-85,256,80,80,3,3,3,5,0,Tue May 12 2020 141022 GMT-0700 (Pacific Daylight Time),2
-87,126,75,90,3,4,3,6,2,Tue May 12 2020 124452 GMT-0400 (Eastern Daylight Time),4
-94,81,80,90,4,5,6,6,2,Wed May 13 2020 123243 GMT-0400 (Eastern Daylight Time),4
-96,19,80,75,6,5,5,6,3,Mon May 11 2020 143537 GMT-0700 (Pacific Daylight Time),4
-98,397,80,90,5,5,6,6,2,Mon May 11 2020 144916 GMT-0400 (Eastern Daylight Time),4
-102,338,50,80,4,7,1,4,3,Mon May 11 2020 111624 GMT-0500 (Central Daylight Time),1
-106,57,50,60,3,3,5,4,2,Mon May 11 2020 163050 GMT-0400 (Eastern Daylight Time),4
-108,48,85,90,3,4,4,3,0,Tue May 12 2020 095650 GMT-0700 (Pacific Daylight Time),6
-110,348,60,70,5,5,5,5,0,Tue May 12 2020 153623 GMT-0400 (Eastern Daylight Time),5
-113,354,55,55,3,5,4,3,3,Mon May 11 2020 152551 GMT-0400 (Eastern Daylight Time),3
-116,270,90,90,6,7,7,7,3,Tue May 12 2020 143400 GMT-0400 (Eastern Daylight Time),7
-117,370,70,80,4,5,6,4,0,Mon May 11 2020 120647 GMT-0700 (Pacific Daylight Time),5
-122,187,66,80,5,4,6,5,3,Tue May 12 2020 123259 GMT-0400 (Eastern Daylight Time),4
-124,150,80,90,7,6,7,6,3,Mon May 11 2020 135413 GMT-0400 (Eastern Daylight Time),7
-127,332,80,80,6,5,7,7,3,Tue May 12 2020 155125 GMT-0400 (Eastern Daylight Time),6
-128,258,95,90,6,5,7,5,2,Mon May 11 2020 155532 GMT-0400 (Eastern Daylight Time),6
-130,382,40,60,7,7,4,3,0,Mon May 11 2020 155928 GMT-0400 (Eastern Daylight Time),4
-132,45,80,70,5,4,6,7,0,Tue May 12 2020 145801 GMT-0500 (Central Daylight Time),4
-134,301,70,60,6,5,5,4,3,Tue May 12 2020 095852 GMT-0700 (Pacific Daylight Time),6
-135,108,70,95,4,1,4,6,0,Wed May 13 2020 121619 GMT-0400 (Eastern Daylight Time),4
-138,79,54,34,2,3,5,3,1,Mon May 11 2020 110551 GMT-0500 (Central Daylight Time),6
-142,188,75,75,4,4,5,3,2,Mon May 11 2020 130645 GMT-0700 (Pacific Daylight Time),5
-143,379,85,90,6,2,5,4,0,Mon May 11 2020 105934 GMT-0400 (Eastern Daylight Time),5
-144,116,75,70,4,2,7,7,3,Wed May 13 2020 125000 GMT-0300 (Brasilia Standard Time),4
-146,119,25,75,1,4,7,7,0,Mon May 11 2020 074613 GMT-0700 (Pacific Daylight Time),4
-149,70,90,70,6,5,6,5,1,Tue May 12 2020 130819 GMT-0500 (Central Daylight Time),5
-152,113,75,90,3,5,2,5,1,Mon May 11 2020 080338 GMT-0700 (Pacific Daylight Time),5
-153,59,90,80,7,6,7,7,1,Wed May 13 2020 095347 GMT-0600 (Mountain Daylight Time),6
-154,160,90,85,5,4,6,6,1,Mon May 11 2020 161018 GMT-0400 (Eastern Daylight Time),4
-155,179,50,50,4,4,4,7,2,Tue May 12 2020 133353 GMT-0500 (Central Daylight Time),2
-160,207,70,90,5,4,3,6,0,Tue May 12 2020 120337 GMT-0500 (Central Daylight Time),5
-161,375,65,80,4,2,3,4,2,Tue May 12 2020 095536 GMT-1000 (Hawaii-Aleutian Standard Time),3
-167,44,80,80,4,4,6,6,2,Tue May 12 2020 084404 GMT-0700 (Pacific Daylight Time),5
-168,125,50,75,2,1,2,4,3,Mon May 11 2020 142425 GMT-0700 (Pacific Daylight Time),2
-170,319,65,70,4,4,5,5,0,Tue May 12 2020 131215 GMT-0400 (Eastern Daylight Time),4
-171,12,70,70,5,1,5,5,2,Wed May 13 2020 110211 GMT-0500 (Central Daylight Time),5
-176,49,60,100,1,2,1,3,0,Wed May 13 2020 123407 GMT-0400 (Eastern Daylight Time),4
-178,364,90,70,6,6,6,6,1,Tue May 12 2020 131158 GMT-0400 (Eastern Daylight Time),4
-179,122,75,80,4,4,4,2,0,Tue May 12 2020 115705 GMT-0400 (Eastern Daylight Time),3
-182,262,85,90,2,2,2,6,2,Tue May 12 2020 155933 GMT-0500 (Central Daylight Time),3
-183,352,90,80,6,4,6,5,3,Tue May 12 2020 082812 GMT-0700 (Pacific Daylight Time),6
-185,304,50,80,2,2,4,4,0,Wed May 13 2020 091809 GMT-0700 (Pacific Daylight Time),3
-188,318,70,70,5,6,6,5,3,Tue May 12 2020 160140 GMT-0400 (Eastern Daylight Time),6
-192,176,70,40,5,4,5,5,1,Tue May 12 2020 002155 GMT+0300 (East Africa Time),4
-196,32,80,75,6,5,5,6,3,Tue May 12 2020 130531 GMT-0700 (Pacific Daylight Time),5
-197,29,80,88,2,3,1,5,0,Wed May 13 2020 115216 GMT-0400 (Eastern Daylight Time),2
-198,87,90,80,2,3,3,3,3,Mon May 11 2020 111908 GMT-0400 (Eastern Daylight Time),3
-199,195,70,80,5,4,2,6,0,Tue May 12 2020 084707 GMT-0700 (Pacific Daylight Time),5
-202,169,70,80,4,3,4,6,0,Mon May 11 2020 164552 GMT-0400 (Eastern Daylight Time),5
-207,346,90,80,5,5,7,7,2,Tue May 12 2020 140829 GMT-0500 (Central Daylight Time),7
-211,380,67,55,4,4,4,6,3,Wed May 13 2020 091133 GMT-0700 (Pacific Daylight Time),4
-213,216,70,80,4,4,4,4,1,Tue May 12 2020 150555 GMT-0500 (Central Daylight Time),1
-216,291,80,75,6,4,5,6,0,Wed May 13 2020 115648 GMT-0400 (Eastern Daylight Time),5
-218,363,90,95,6,4,6,7,3,Wed May 13 2020 135244 GMT-0400 (Eastern Daylight Time),6
-220,337,90,75,6,5,6,2,1,Tue May 12 2020 110300 GMT-0500 (Central Daylight Time),4
-221,142,79,80,7,6,6,5,0,Mon May 11 2020 135151 GMT-0400 (Eastern Daylight Time),7
-222,121,75,90,2,3,2,5,0,Mon May 11 2020 132917 GMT-0400 (Eastern Daylight Time),4
-223,78,70,80,4,4,3,3,1,Tue May 12 2020 082021 GMT-0700 (Pacific Daylight Time),3
-225,123,95,89,4,4,6,1,2,Mon May 11 2020 152652 GMT-0400 (Eastern Daylight Time),5
-229,93,85,90,6,5,6,6,1,Tue May 12 2020 122116 GMT-0400 (Eastern Daylight Time),3
-232,324,80,80,2,6,7,2,2,Tue May 12 2020 171103 GMT-0400 (Eastern Daylight Time),6
-234,323,90,90,6,2,6,7,1,Mon May 11 2020 131905 GMT-0400 (Eastern Daylight Time),5
-238,140,20,80,3,6,4,5,2,Mon May 11 2020 085327 GMT-0600 (Mountain Daylight Time),4
-239,35,70,80,6,4,4,3,0,Mon May 11 2020 091112 GMT-0600 (Mountain Daylight Time),5
-243,131,70,80,6,6,5,6,0,Mon May 11 2020 104245 GMT-0600 (Mountain Daylight Time),6
-244,219,75,80,5,6,5,3,2,Wed May 13 2020 105234 GMT-0500 (Central Daylight Time),5
-248,273,30,80,2,2,1,6,0,Wed May 13 2020 120636 GMT-0500 (Central Daylight Time),2
-250,36,75,80,5,5,2,5,0,Wed May 13 2020 114821 GMT-0400 (Eastern Daylight Time),4
-251,163,80,75,4,4,5,5,2,Wed May 13 2020 125448 GMT-0400 (Eastern Daylight Time),5
-254,215,65,70,5,6,6,7,1,Mon May 11 2020 151311 GMT-0400 (Eastern Daylight Time),7
-260,311,50,80,5,3,4,5,0,Tue May 12 2020 102922 GMT-0500 (Central Daylight Time),3
-263,92,40,40,3,2,3,4,1,Mon May 11 2020 155928 GMT-0400 (Eastern Daylight Time),2
-267,222,60,80,4,1,1,1,2,Wed May 13 2020 103708 GMT-0500 (Central Daylight Time),4
-270,353,75,80,5,3,4,3,0,Mon May 11 2020 112251 GMT-0700 (Pacific Daylight Time),6
-278,314,75,75,5,5,5,6,2,Tue May 12 2020 112750 GMT-0400 (Eastern Daylight Time),6
-279,350,69,75,1,1,1,4,1,Mon May 11 2020 112455 GMT-0500 (Central Daylight Time),5
-280,84,70,70,6,5,5,7,2,Wed May 13 2020 114944 GMT-0400 (Eastern Daylight Time),5
-281,326,99,99,5,6,6,7,0,Mon May 11 2020 112633 GMT-0500 (Central Daylight Time),4
-282,272,40,70,1,1,4,3,0,Mon May 11 2020 104036 GMT-0500 (Central Daylight Time),2
-283,239,60,90,4,2,4,6,3,Tue May 12 2020 161345 GMT-0500 (Central Daylight Time),3
-284,320,40,50,6,5,4,4,3,Tue May 12 2020 135920 GMT-0700 (Pacific Daylight Time),3
-285,340,15,20,4,3,7,1,3,Mon May 11 2020 160527 GMT-0500 (Central Daylight Time),5
-286,85,85,80,7,7,7,7,3,Mon May 11 2020 172414 GMT-0400 (Eastern Daylight Time),6
-287,228,90,80,3,5,4,1,3,Tue May 12 2020 143019 GMT-0500 (Central Daylight Time),4
-289,145,80,90,4,3,5,7,1,Tue May 12 2020 153714 GMT-0400 (Eastern Daylight Time),4
-290,279,75,70,6,6,6,7,2,Wed May 13 2020 124151 GMT-0400 (Eastern Daylight Time),5
-291,72,80,80,5,5,6,6,3,Tue May 12 2020 122353 GMT-0700 (Pacific Daylight Time),5
-292,360,65,80,4,5,5,5,0,Mon May 11 2020 111327 GMT-0400 (Eastern Daylight Time),5
-294,274,70,60,3,4,2,3,1,Tue May 12 2020 141941 GMT-0400 (Eastern Daylight Time),4
-295,158,92,92,5,4,5,6,1,Tue May 12 2020 123026 GMT-0400 (Eastern Daylight Time),4
-296,47,100,80,5,4,6,6,1,Wed May 13 2020 085626 GMT-0700 (Pacific Daylight Time),6
-297,218,95,75,5,5,6,4,3,Tue May 12 2020 151022 GMT-0400 (Eastern Daylight Time),6
-304,231,80,90,4,5,4,5,3,Mon May 11 2020 121853 GMT-0600 (Mountain Daylight Time),5
-305,39,80,85,5,6,6,6,0,Tue May 12 2020 154548 GMT-0400 (Eastern Daylight Time),4
-306,252,80,80,4,3,5,2,3,Mon May 11 2020 140841 GMT-0400 (Eastern Daylight Time),5
-307,241,65,75,4,4,3,5,3,Tue May 12 2020 114713 GMT-0600 (Mountain Daylight Time),4
-309,381,99,98,6,6,7,7,3,Tue May 12 2020 083319 GMT-0700 (Pacific Daylight Time),7
-311,209,75,60,5,5,5,4,3,Tue May 12 2020 140412 GMT-0500 (Central Daylight Time),5
-313,268,80,60,4,5,6,5,3,Mon May 11 2020 102612 GMT-0400 (Eastern Daylight Time),5
-314,180,75,65,2,5,3,4,2,Tue May 12 2020 163610 GMT-0400 (Eastern Daylight Time),5
-316,52,70,70,4,3,5,4,0,Tue May 12 2020 133206 GMT-0700 (Mountain Standard Time),3
-319,164,90,80,4,6,5,5,2,Mon May 11 2020 131115 GMT-0700 (Pacific Daylight Time),6
-327,138,90,70,4,4,4,5,0,Mon May 11 2020 153721 GMT-0500 (Central Daylight Time),4
-328,383,90,80,5,1,6,7,1,Tue May 12 2020 133200 GMT-0500 (Central Daylight Time),6
-330,43,60,95,1,1,1,3,2,Tue May 12 2020 160143 GMT-0500 (Central Daylight Time),1
-331,310,80,70,6,5,5,5,3,Tue May 12 2020 133049 GMT-0700 (Pacific Daylight Time),5
-332,190,80,90,3,2,7,7,0,Tue May 12 2020 082041 GMT-0700 (Pacific Daylight Time),7
-335,2,70,75,2,3,3,6,0,Wed May 13 2020 115233 GMT-0400 (Eastern Daylight Time),3
-340,303,80,75,6,6,6,5,3,Tue May 12 2020 154449 GMT-0400 (Eastern Daylight Time),6
-343,13,90,90,6,6,7,6,3,Tue May 12 2020 111734 GMT-0400 (Eastern Daylight Time),6
-346,300,50,95,3,3,3,7,2,Mon May 11 2020 130913 GMT-0700 (Mountain Standard Time),3
-350,287,100,95,5,7,7,7,0,Tue May 12 2020 170634 GMT-0400 (Eastern Daylight Time),7
-354,322,80,75,5,5,5,5,3,Mon May 11 2020 131909 GMT-0500 (Central Daylight Time),5
-355,395,95,90,5,3,5,7,0,Mon May 11 2020 120221 GMT-0700 (Mountain Standard Time),5
-356,136,96,95,5,5,7,6,3,Mon May 11 2020 103614 GMT-0700 (Pacific Daylight Time),6
-360,358,70,80,5,5,4,7,3,Tue May 12 2020 114123 GMT-0500 (Central Daylight Time),4
-366,69,70,80,5,4,5,6,1,Tue May 12 2020 144755 GMT-0400 (Eastern Daylight Time),5
-368,389,70,90,4,3,1,6,2,Tue May 12 2020 164916 GMT-0400 (Eastern Daylight Time),3
-369,98,60,80,4,3,4,3,0,Mon May 11 2020 124450 GMT-0500 (Central Daylight Time),5
-372,321,70,75,6,5,4,6,1,Mon May 11 2020 162529 GMT-0400 (Eastern Daylight Time),3
-373,101,50,50,3,3,2,5,3,Tue May 12 2020 162409 GMT-0400 (Eastern Daylight Time),4
-375,67,70,60,6,5,4,5,3,Tue May 12 2020 090113 GMT-0700 (Mountain Standard Time),5
-376,223,90,89,4,3,3,4,0,Mon May 11 2020 100041 GMT-0500 (Central Daylight Time),5
-377,200,60,80,5,3,3,5,0,Tue May 12 2020 092232 GMT-0700 (Pacific Daylight Time),2
-378,41,70,60,4,4,6,5,1,Mon May 11 2020 162056 GMT-0500 (Central Daylight Time),5
-384,344,80,90,5,5,5,5,1,Mon May 11 2020 171852 GMT-0700 (Pacific Daylight Time),7
-385,282,100,100,7,7,7,7,1,Mon May 11 2020 120230 GMT-0500 (Central Daylight Time),5
-386,298,80,80,5,5,5,5,1,Tue May 12 2020 125437 GMT-0400 (Eastern Daylight Time),4
-388,226,70,90,7,4,5,5,3,Mon May 11 2020 161918 GMT-0400 (Eastern Daylight Time),4
-389,357,90,80,6,7,6,6,2,Mon May 11 2020 094854 GMT-0500 (Central Daylight Time),6
-391,396,7,8,5,5,5,5,3,Mon May 11 2020 114500 GMT-0700 (Pacific Daylight Time),6
-394,281,99,90,2,4,3,4,0,Mon May 11 2020 144720 GMT-0400 (Eastern Daylight Time),3
-395,6,70,89,5,7,5,7,2,Mon May 11 2020 083853 GMT-0700 (Pacific Daylight Time),7
-397,149,70,80,5,4,2,5,1,Tue May 12 2020 142410 GMT-0500 (Central Daylight Time),4
-399,107,85,90,3,2,3,5,1,Tue May 12 2020 084709 GMT-0600 (Mountain Daylight Time),3
-401,50,94,90,7,6,6,6,3,Mon May 11 2020 104542 GMT-0400 (Eastern Daylight Time),7
-405,362,85,85,5,5,5,5,1,Mon May 11 2020 093442 GMT-0700 (Pacific Daylight Time),6
-408,251,95,85,7,2,6,5,1,Wed May 13 2020 125528 GMT-0400 (Paraguay Standard Time),6
-410,161,70,60,5,4,3,6,3,Wed May 13 2020 092412 GMT-0500 (Central Daylight Time),4
-412,198,85,85,5,7,5,7,3,Tue May 12 2020 180319 GMT-0700 (Pacific Daylight Time),6
-415,283,70,80,5,5,4,5,0,Tue May 12 2020 081908 GMT-0700 (Pacific Daylight Time),5
-416,339,95,90,5,5,6,5,1,Mon May 11 2020 104034 GMT-0400 (Eastern Daylight Time),5
-419,202,60,70,4,1,4,6,3,Mon May 11 2020 095045 GMT-0500 (Central Daylight Time),4
-420,21,75,80,4,5,6,6,1,Tue May 12 2020 140014 GMT-0700 (Pacific Daylight Time),5
-421,196,90,85,6,6,7,7,0,Tue May 12 2020 195030 GMT+0300 (Eastern European Summer Time),6
-422,317,80,80,5,4,5,5,1,Mon May 11 2020 172025 GMT-0400 (Eastern Daylight Time),6
-429,28,8,7,3,3,4,2,0,Wed May 13 2020 105343 GMT-0400 (Eastern Daylight Time),6
-430,170,90,70,5,4,4,6,3,Wed May 13 2020 120347 GMT-0400 (Eastern Daylight Time),4
-431,155,45,50,5,4,4,3,3,Mon May 11 2020 145656 GMT-0500 (Central Daylight Time),5
-432,289,95,90,5,3,6,4,3,Wed May 13 2020 104611 GMT-0500 (CDT),4
-433,51,80,75,4,5,4,5,2,Tue May 12 2020 143910 GMT-0400 (Eastern Daylight Time),5
-437,148,70,80,2,3,1,6,0,Tue May 12 2020 102001 GMT-0500 (CDT),3
-438,166,90,95,5,4,5,5,3,Tue May 12 2020 163159 GMT-0400 (Eastern Daylight Time),6
-440,102,98,95,7,6,6,5,1,Mon May 11 2020 133510 GMT-0400 (Eastern Daylight Time),4
-441,374,50,70,2,2,1,4,3,Tue May 12 2020 111820 GMT-0400 (Eastern Daylight Time),2
-444,112,50,50,5,4,5,4,0,Tue May 12 2020 163620 GMT-0500 (Central Daylight Time),5
-447,269,100,60,7,7,6,7,0,Wed May 13 2020 072534 GMT-0700 (Pacific Daylight Time),7
-451,128,98,95,5,6,6,4,1,Tue May 12 2020 143734 GMT-0400 (Eastern Daylight Time),3
-452,235,90,100,5,1,6,6,1,Mon May 11 2020 131425 GMT-0500 (Central Daylight Time),7
-453,152,60,75,3,6,5,5,0,Tue May 12 2020 122510 GMT-0500 (Central Daylight Time),5
-457,8,100,100,7,6,7,7,1,Tue May 12 2020 122055 GMT-0400 (Eastern Daylight Time),5
-458,295,85,80,4,5,5,6,0,Mon May 11 2020 112419 GMT-0600 (Mountain Daylight Time),3
-460,316,68,98,3,1,3,1,1,Mon May 11 2020 124855 GMT-0500 (Central Daylight Time),3
-461,305,70,60,3,3,4,4,3,Wed May 13 2020 154047 GMT-0700 (Pacific Daylight Time),3
-462,192,85,90,5,5,7,6,1,Mon May 11 2020 135711 GMT-0400 (Eastern Daylight Time),5
-465,139,90,60,6,6,5,6,2,Tue May 12 2020 144655 GMT-0400 (Eastern Daylight Time),6
-466,18,75,100,1,1,1,1,0,Wed May 13 2020 185049 GMT-0500 (Central Daylight Time),2
-468,280,95,85,5,5,6,5,1,Tue May 12 2020 155623 GMT-0500 (Central Daylight Time),5
-473,369,95,85,7,6,6,7,1,Mon May 11 2020 113825 GMT-0700 (Pacific Daylight Time),4
-474,1,80,70,6,4,5,4,2,Wed May 13 2020 122701 GMT-0400 (Eastern Daylight Time),4
-477,0,90,95,5,2,4,7,1,Wed May 13 2020 104119 GMT-0500 (Central Daylight Time),5
-478,64,23,4,3,2,2,4,2,Mon May 11 2020 135425 GMT-0400 (Eastern Daylight Time),3
-479,242,97,97,6,5,6,6,2,Tue May 12 2020 101914 GMT-0700 (Pacific Daylight Time),7
-482,243,60,50,4,4,3,4,3,Mon May 11 2020 110119 GMT-0400 (Eastern Daylight Time),4
-483,15,90,90,6,5,5,5,3,Tue May 12 2020 120605 GMT-0600 (Mountain Daylight Time),6
-484,183,40,60,3,3,4,4,3,Mon May 11 2020 120946 GMT-0500 (Central Daylight Time),3
-485,290,75,85,4,3,3,4,2,Tue May 12 2020 112128 GMT-0700 (Pacific Daylight Time),4
-486,94,66,77,1,2,2,5,0,Mon May 11 2020 200655 GMT+0300 (Eastern European Summer Time),2
-487,171,80,95,4,4,6,6,1,Tue May 12 2020 102201 GMT-0700 (Pacific Daylight Time),4
-490,386,90,90,5,5,5,7,1,Mon May 11 2020 122706 GMT-0500 (Central Daylight Time),4
-491,263,75,75,6,6,6,5,2,Tue May 12 2020 171922 GMT-0400 (Eastern Daylight Time),6
-493,328,90,90,3,5,6,5,2,Mon May 11 2020 161007 GMT-0600 (Mountain Daylight Time),6
-499,293,85,80,5,4,5,6,2,Mon May 11 2020 124233 GMT-0400 (Eastern Daylight Time),5
-500,238,60,90,4,3,3,3,2,Mon May 11 2020 100339 GMT-0500 (Central Daylight Time),4
-504,220,50,70,2,3,2,5,3,Tue May 12 2020 141503 GMT-0400 (Eastern Daylight Time),2
-510,312,85,90,4,4,4,4,3,Mon May 11 2020 134534 GMT-0400 (Eastern Daylight Time),5
-511,210,80,80,4,5,6,7,2,Wed May 13 2020 120706 GMT-0400 (Eastern Daylight Time),5
-512,376,85,80,4,6,7,5,0,Mon May 11 2020 103020 GMT-0500 (Central Daylight Time),7
-520,185,35,65,5,5,4,4,2,Mon May 11 2020 102239 GMT-0700 (Pacific Daylight Time),4
-521,351,80,50,6,7,6,6,3,Mon May 11 2020 102644 GMT-0500 (Central Daylight Time),5
-523,285,70,85,3,3,4,4,0,Tue May 12 2020 140152 GMT-0400 (Eastern Daylight Time),3
-524,264,85,90,5,4,6,5,1,Wed May 13 2020 114610 GMT-0400 (Eastern Daylight Time),6
-525,182,90,75,7,7,7,2,1,Tue May 12 2020 150427 GMT-0400 (Eastern Daylight Time),6
-526,83,75,80,4,5,4,3,0,Mon May 11 2020 131145 GMT-0500 (Central Daylight Time),4
-528,373,60,70,5,5,6,6,2,Mon May 11 2020 162930 GMT-0500 (Central Daylight Time),3
-535,392,90,90,5,4,5,6,1,Mon May 11 2020 142758 GMT-0700 (Pacific Daylight Time),5
-536,204,80,75,6,5,5,4,0,Tue May 12 2020 152719 GMT-0400 (EDT),5
-539,246,90,80,5,4,6,5,1,Mon May 11 2020 140400 GMT-0400 (Eastern Daylight Time),4
-540,91,80,70,6,5,4,2,3,Wed May 13 2020 125120 GMT-0400 (Eastern Daylight Time),5
-542,265,90,40,5,4,5,7,2,Tue May 12 2020 113001 GMT-0400 (EDT),6
-547,391,70,75,3,4,3,5,3,Wed May 13 2020 123612 GMT-0400 (Eastern Daylight Time),4
-548,14,90,95,4,4,6,7,0,Mon May 11 2020 142935 GMT-0500 (Central Daylight Time),6
-549,58,70,85,3,4,5,4,0,Mon May 11 2020 181904 GMT-0400 (Eastern Daylight Time),5
-550,103,65,60,3,2,2,4,1,Mon May 11 2020 112137 GMT-0400 (Eastern Daylight Time),4
-552,175,85,90,5,5,5,6,3,Tue May 12 2020 142558 GMT-0500 (Central Daylight Time),5
-554,334,80,80,5,4,7,5,0,Tue May 12 2020 090532 GMT-0700 (Mountain Standard Time),5
-555,115,89,80,5,5,5,5,2,Mon May 11 2020 093228 GMT-0700 (Pacific Daylight Time),5
-558,309,75,60,5,5,6,7,2,Mon May 11 2020 131806 GMT-0600 (Mountain Daylight Time),4
-563,253,75,85,5,6,5,6,3,Wed May 13 2020 121439 GMT-0400 (Eastern Daylight Time),5
-564,157,95,90,6,6,7,7,3,Wed May 13 2020 101903 GMT-0500 (Central Daylight Time),6
-565,306,70,80,4,6,6,6,1,Mon May 11 2020 132436 GMT-0400 (Eastern Daylight Time),7
-566,307,8,95,6,6,5,5,0,Tue May 12 2020 111336 GMT-0400 (Eastern Daylight Time),5
-574,255,75,80,7,7,7,7,2,Wed May 13 2020 094316 GMT-0500 (Central Daylight Time),7
-575,341,50,50,2,1,3,2,2,Tue May 12 2020 155732 GMT-0500 (Central Daylight Time),3
-576,89,80,75,4,5,5,6,3,Tue May 12 2020 150102 GMT-0400 (Eastern Daylight Time),4
-579,213,75,70,5,6,4,5,2,Tue May 12 2020 075716 GMT-0700 (Pacific Daylight Time),5
-582,141,70,80,6,5,4,5,0,Tue May 12 2020 122335 GMT-0500 (Central Daylight Time),5
-583,95,80,90,5,5,5,6,3,Wed May 13 2020 125705 GMT-0400 (EDT),4
-584,54,50,60,3,3,5,2,2,Mon May 11 2020 080708 GMT-0700 (Pacific Daylight Time),4
-585,367,70,50,5,7,7,7,1,Tue May 12 2020 143157 GMT-0400 (Eastern Daylight Time),6
-592,4,85,90,4,5,5,5,1,Wed May 13 2020 122048 GMT-0400 (Eastern Daylight Time),4
-594,9,50,80,3,3,4,4,0,Mon May 11 2020 184538 GMT+0300 (East Africa Time),4
-595,24,70,75,5,3,4,4,3,Mon May 11 2020 115436 GMT-0600 (Mountain Daylight Time),5
-600,399,90,85,4,4,5,5,3,Wed May 13 2020 092355 GMT-0700 (Pacific Daylight Time),6
-601,159,65,80,5,2,5,6,0,Wed May 13 2020 115319 GMT-0500 (Central Daylight Time),5
-607,345,85,90,6,1,5,6,0,Wed May 13 2020 092743 GMT-0700 (Pacific Daylight Time),5
-608,146,50,60,4,1,2,5,3,Wed May 13 2020 130535 GMT-0400 (Eastern Daylight Time),5
-609,398,99,98,6,5,7,6,0,Mon May 11 2020 130940 GMT-0400 (Eastern Daylight Time),7
-610,10,85,90,4,1,2,6,2,Mon May 11 2020 180902 GMT+0100 (British Summer Time),5
-617,250,75,80,5,6,6,4,1,Tue May 12 2020 150619 GMT-0400 (Eastern Daylight Time),5
-624,168,92,88,6,5,6,6,2,Wed May 13 2020 103241 GMT-0400 (Eastern Daylight Time),6
-625,194,80,50,3,5,5,3,2,Mon May 11 2020 142506 GMT-0700 (Mountain Standard Time),4
-626,191,70,50,4,4,4,4,3,Mon May 11 2020 114920 GMT-0400 (Eastern Daylight Time),5
-628,71,80,80,4,4,3,6,1,Wed May 13 2020 122712 GMT-0400 (Eastern Daylight Time),4
-629,5,60,70,3,4,5,1,2,Mon May 11 2020 114022 GMT-0400 (Eastern Daylight Time),5
-630,212,70,85,5,4,5,5,0,Tue May 12 2020 162022 GMT-0400 (Eastern Daylight Time),4
-631,333,80,50,5,4,7,6,3,Mon May 11 2020 115226 GMT-0500 (Central Daylight Time),7
-634,296,50,50,5,5,3,3,2,Tue May 12 2020 133007 GMT-0700 (MST),4
-637,117,54,65,3,4,2,5,0,Wed May 13 2020 111652 GMT-0700 (Pacific Daylight Time),5
-639,232,65,70,5,6,6,6,2,Mon May 11 2020 182449 GMT-0400 (Eastern Daylight Time),6
-641,90,80,70,5,5,7,7,3,Tue May 12 2020 150655 GMT-0400 (Eastern Daylight Time),4
-642,217,75,60,6,5,6,7,0,Tue May 12 2020 165802 GMT-0400 (Eastern Daylight Time),5
-645,205,90,60,6,5,6,6,0,Mon May 11 2020 110410 GMT-0700 (Pacific Daylight Time),6
-646,106,75,50,5,6,6,6,3,Wed May 13 2020 115211 GMT-0400 (Eastern Daylight Time),4
-647,130,90,80,6,5,6,5,3,Wed May 13 2020 123111 GMT-0400 (Eastern Daylight Time),5
-649,371,87,87,5,5,5,4,0,Mon May 11 2020 151133 GMT-0500 (Central Daylight Time),7
-650,387,90,40,7,7,7,7,1,Tue May 12 2020 141725 GMT-0400 (Eastern Daylight Time),7
-651,167,50,100,1,1,1,3,3,Tue May 12 2020 132226 GMT-0500 (Central Daylight Time),2
-652,82,55,60,4,4,5,5,2,Wed May 13 2020 122654 GMT-0400 (Eastern Daylight Time),4
-664,174,90,95,5,5,5,7,1,Mon May 11 2020 103552 GMT-0700 (Mountain Standard Time),5
-667,62,60,50,3,3,4,3,2,Mon May 11 2020 132410 GMT-0400 (Eastern Daylight Time),4
-669,55,75,85,6,6,6,7,3,Wed May 13 2020 114531 GMT-0400 (Eastern Daylight Time),6
-670,342,75,87,4,1,4,7,0,Mon May 11 2020 134638 GMT-0700 (Pacific Daylight Time),6
-671,233,80,75,6,4,4,3,2,Mon May 11 2020 093332 GMT-0500 (Central Daylight Time),6
-677,104,50,65,4,4,6,5,1,Mon May 11 2020 140247 GMT-0700 (Pacific Daylight Time),5
-678,336,80,75,5,5,5,6,0,Tue May 12 2020 123022 GMT-0600 (Mountain Daylight Time),5
-679,388,50,80,3,3,3,5,2,Tue May 12 2020 144310 GMT-0400 (Eastern Daylight Time),4
-682,114,80,80,5,5,6,6,2,Tue May 12 2020 103646 GMT-0700 (Pacific Daylight Time),7
-683,189,80,80,5,5,5,5,3,Tue May 12 2020 101133 GMT-0700 (Pacific Daylight Time),6
-684,162,50,80,5,4,5,2,3,Mon May 11 2020 100420 GMT-0700 (Pacific Daylight Time),6
-686,372,80,80,4,4,4,5,0,Wed May 13 2020 103031 GMT-0400 (Eastern Daylight Time),4
-691,249,85,90,4,4,4,7,3,Tue May 12 2020 110712 GMT-0500 (Central Daylight Time),4
-692,227,75,80,5,5,6,6,3,Mon May 11 2020 113309 GMT-0700 (Pacific Daylight Time),6
-693,178,70,100,4,2,5,3,0,Mon May 11 2020 165529 GMT-0400 (Eastern Daylight Time),3
-694,129,90,80,6,4,7,6,1,Mon May 11 2020 162325 GMT-0700 (Pacific Daylight Time),6
-695,325,75,80,4,2,4,4,0,Tue May 12 2020 134237 GMT-0500 (Central Daylight Time),4
-696,276,70,80,5,2,4,5,0,Tue May 12 2020 094721 GMT-0500 (Central Daylight Time),4
-698,20,85,85,4,6,6,4,2,Tue May 12 2020 140146 GMT-0700 (Pacific Daylight Time),6
-701,151,80,70,7,6,6,7,1,Mon May 11 2020 114256 GMT-0700 (Pacific Daylight Time),6
-702,105,75,80,4,3,5,6,1,Mon May 11 2020 161132 GMT-0400 (Eastern Daylight Time),6
-703,297,85,85,5,4,4,4,0,Mon May 11 2020 161828 GMT-0500 (Central Daylight Time),4
-704,193,70,70,7,6,6,7,2,Tue May 12 2020 205241 GMT+0100 (West Africa Standard Time),6
-705,327,95,90,7,6,7,7,1,Tue May 12 2020 144259 GMT-0400 (Eastern Daylight Time),4
-713,277,65,70,4,1,3,5,3,Mon May 11 2020 134116 GMT-0400 (Eastern Daylight Time),2
-717,111,90,80,6,6,6,6,3,Tue May 12 2020 123832 GMT-0700 (Pacific Daylight Time),6
-719,384,90,100,4,4,3,7,1,Wed May 13 2020 121653 GMT-0400 (Eastern Daylight Time),5
-723,73,70,80,6,6,7,6,1,Mon May 11 2020 082016 GMT-0700 (Pacific Daylight Time),6
-728,299,87,88,6,6,6,5,2,Mon May 11 2020 110146 GMT-0400 (Eastern Daylight Time),6
-730,120,80,95,3,2,4,3,0,Mon May 11 2020 165944 GMT-0400 (Eastern Daylight Time),4
-734,394,60,75,2,3,4,5,2,Tue May 12 2020 124922 GMT-0700 (Pacific Daylight Time),5
-738,221,88,88,7,7,7,7,3,Tue May 12 2020 124124 GMT-0400 (Eastern Daylight Time),7
-742,201,80,70,5,6,6,5,1,Wed May 13 2020 114622 GMT-0400 (EDT),3
-743,100,75,90,4,4,7,7,2,Tue May 12 2020 154236 GMT-0400 (Eastern Daylight Time),5
-744,260,90,80,4,6,6,5,0,Tue May 12 2020 080412 GMT-0700 (Pacific Daylight Time),5
-750,329,80,60,6,5,6,6,0,Mon May 11 2020 092001 GMT-0700 (Pacific Daylight Time),5
-753,271,12,56,4,4,6,5,3,Tue May 12 2020 134423 GMT-0700 (Pacific Daylight Time),3
-754,173,80,80,4,4,4,7,0,Mon May 11 2020 160823 GMT-0400 (Eastern Daylight Time),3
-755,30,100,100,4,3,4,4,3,Tue May 12 2020 082956 GMT-0700 (Pacific Daylight Time),6
-758,7,95,95,7,7,7,7,2,Mon May 11 2020 172010 GMT-0400 (Eastern Daylight Time),6
-761,254,85,90,6,5,5,7,1,Mon May 11 2020 143008 GMT-0400 (Eastern Daylight Time),3
-762,127,80,70,5,4,5,6,1,Mon May 11 2020 125906 GMT-0400 (Eastern Daylight Time),5
-766,109,70,80,2,3,1,5,0,Mon May 11 2020 162821 GMT-0400 (Eastern Daylight Time),2
-768,132,90,90,3,4,5,5,2,Mon May 11 2020 160912 GMT-0400 (Eastern Daylight Time),5
-769,181,50,30,3,4,4,4,2,Wed May 13 2020 122434 GMT-0400 (Eastern Daylight Time),4
-770,331,95,85,7,4,5,2,0,Mon May 11 2020 214821 GMT-0700 (Pacific Daylight Time),5
-773,86,80,99,2,5,3,5,1,Mon May 11 2020 082300 GMT-0700 (Pacific Daylight Time),5
-774,400,25,65,3,3,3,5,2,Wed May 13 2020 092126 GMT-0700 (Mountain Standard Time),3
-778,292,50,75,4,3,5,5,2,Wed May 13 2020 112617 GMT-0400 (Eastern Daylight Time),4
-779,68,80,80,6,6,4,5,1,Mon May 11 2020 131114 GMT-0500 (Central Daylight Time),4
-780,77,90,90,4,5,4,4,0,Wed May 13 2020 110240 GMT-0500 (Central Daylight Time),6
-781,124,60,90,1,1,1,4,0,Wed May 13 2020 092000 GMT-0700 (MST),3
-783,361,85,75,6,6,6,6,1,Wed May 13 2020 115324 GMT-0500 (Central Daylight Time),5
-784,261,60,90,3,3,3,4,2,Tue May 12 2020 123211 GMT-0600 (Mountain Daylight Time),5
-785,365,70,90,4,2,3,4,3,Tue May 12 2020 151621 GMT-0400 (Eastern Daylight Time),4
-787,11,70,80,4,3,5,5,2,Wed May 13 2020 121214 GMT-0400 (Eastern Daylight Time),5
-788,236,50,40,5,3,5,4,0,Mon May 11 2020 230852 GMT+0530 (India Standard Time),5
-789,257,80,80,4,4,4,2,1,Mon May 11 2020 105342 GMT-0400 (Eastern Daylight Time),4
-790,27,70,90,5,6,3,7,2,Tue May 12 2020 114318 GMT-0700 (Pacific Daylight Time),5
-791,97,90,85,6,4,7,6,3,Mon May 11 2020 200801 GMT+0300 (Eastern European Summer Time),6
-793,74,55,75,3,5,3,6,2,Tue May 12 2020 142530 GMT-0500 (Central Daylight Time),4
-795,56,70,80,5,2,2,5,0,Tue May 12 2020 153930 GMT-0400 (Eastern Daylight Time),2
-796,208,60,60,5,3,4,4,2,Wed May 13 2020 105243 GMT-0500 (Central Daylight Time),4
-798,284,85,85,5,4,6,6,1,Tue May 12 2020 095757 GMT-0700 (Mountain Standard Time),3
-803,349,80,85,6,4,6,7,1,Mon May 11 2020 113022 GMT-0400 (Eastern Daylight Time),5
-805,248,75,80,5,4,5,5,0,Mon May 11 2020 122800 GMT-0600 (Mountain Daylight Time),6
-807,234,100,80,6,7,6,7,2,Mon May 11 2020 113419 GMT-0400 (Eastern Daylight Time),7
-809,38,70,80,5,4,4,4,3,Tue May 12 2020 135957 GMT-0700 (Pacific Daylight Time),3
-813,147,90,80,6,6,5,3,1,Wed May 13 2020 123711 GMT-0400 (Eastern Daylight Time),4
-815,294,50,90,1,1,1,4,0,Tue May 12 2020 133354 GMT-0700 (Pacific Daylight Time),4
-818,184,80,80,2,4,3,1,0,Mon May 11 2020 135315 GMT-0400 (Eastern Daylight Time),3
-820,244,75,75,5,4,2,5,1,Mon May 11 2020 085912 GMT-0600 (Mountain Daylight Time),5
-821,230,97,98,2,3,5,5,2,Tue May 12 2020 112623 GMT-0500 (Central Daylight Time),7
-823,225,90,90,5,5,5,7,1,Mon May 11 2020 140928 GMT-0700 (Pacific Daylight Time),3
-826,267,85,90,2,2,2,5,3,Wed May 13 2020 105428 GMT-0400 (Eastern Daylight Time),2
-827,288,60,75,4,5,4,6,1,Tue May 12 2020 134137 GMT-0500 (Central Daylight Time),5
-828,377,65,70,4,3,4,5,3,Tue May 12 2020 091640 GMT-0700 (Pacific Daylight Time),4
-831,393,91,89,7,7,7,7,2,Mon May 11 2020 225721 GMT+0800 (China Standard Time),7
-833,23,70,60,7,5,4,4,3,Mon May 11 2020 153515 GMT-0500 (Central Daylight Time),6
-836,356,98,75,7,7,7,7,3,Tue May 12 2020 093705 GMT-0700 (Mountain Standard Time),5
-838,355,90,60,5,6,5,5,1,Tue May 12 2020 091759 GMT-0700 (Pacific Daylight Time),5
-840,214,80,80,6,6,7,7,1,Mon May 11 2020 110827 GMT-0400 (Eastern Daylight Time),5
-841,366,70,60,5,5,7,6,2,Tue May 12 2020 164134 GMT-0300 (Atlantic Daylight Time),5
-845,96,80,60,6,1,6,7,0,Tue May 12 2020 170046 GMT-0400 (Eastern Daylight Time),5
-846,401,80,70,5,6,6,5,1,Tue May 12 2020 144121 GMT-0600 (Mountain Daylight Time),7
-847,153,95,95,1,3,3,3,3,Wed May 13 2020 130959 GMT-0400 (Eastern Daylight Time),2
-849,199,45,50,3,3,1,6,1,Tue May 12 2020 113455 GMT-0700 (Pacific Daylight Time),4
-850,266,80,60,7,7,7,7,2,Mon May 11 2020 144214 GMT-0400 (Eastern Daylight Time),7
-858,34,80,80,4,4,4,4,2,Tue May 12 2020 125424 GMT-0700 (Pacific Daylight Time),4
-861,135,90,90,5,5,5,4,1,Mon May 11 2020 181903 GMT-0500 (Central Daylight Time),7
-863,165,70,65,3,4,4,6,2,Tue May 12 2020 134410 GMT-0700 (Mountain Standard Time),3
-865,76,95,85,6,5,7,5,0,Mon May 11 2020 081424 GMT-0700 (Pacific Daylight Time),5
-867,245,85,90,5,3,5,5,3,Wed May 13 2020 104555 GMT-0400 (Eastern Daylight Time),5
-873,99,89,98,5,6,5,7,2,Tue May 12 2020 122913 GMT-0400 (Eastern Daylight Time),6
-874,17,75,95,2,2,2,3,0,Mon May 11 2020 131002 GMT-0700 (Pacific Daylight Time),2
-875,61,85,90,5,5,6,6,2,Mon May 11 2020 133457 GMT-0400 (Eastern Daylight Time),5
-878,197,70,90,2,2,3,2,3,Tue May 12 2020 131351 GMT-0400 (Eastern Daylight Time),2
-881,63,90,85,5,4,6,6,2,Wed May 13 2020 090546 GMT-0700 (Pacific Daylight Time),5
-882,343,75,80,6,5,7,7,3,Wed May 13 2020 125220 GMT-0400 (Eastern Daylight Time),5
-883,177,70,60,6,4,7,6,2,Mon May 11 2020 142404 GMT-0700 (Pacific Daylight Time),6
-884,211,60,70,1,3,3,5,2,Tue May 12 2020 160639 GMT-0500 (Central Daylight Time),4
-885,385,88,90,6,6,7,7,1,Mon May 11 2020 144422 GMT-0400 (Eastern Daylight Time),7
-886,286,100,60,4,3,4,3,0,Wed May 13 2020 145920 GMT+0000 (Greenwich Mean Time),6
-889,60,75,80,3,3,4,4,3,Mon May 11 2020 142735 GMT-0700 (Pacific Daylight Time),2
-892,156,50,80,6,5,4,4,3,Mon May 11 2020 153306 GMT-0600 (Mountain Daylight Time),4
-893,186,90,80,2,2,3,3,3,Mon May 11 2020 112628 GMT-0500 (Central Daylight Time),2
-896,31,52,45,2,3,6,2,2,Mon May 11 2020 145737 GMT-0500 (Central Daylight Time),5
-902,22,75,80,6,5,7,7,2,Mon May 11 2020 130658 GMT-0400 (Eastern Daylight Time),5
-905,33,65,80,2,3,2,4,1,Tue May 12 2020 094653 GMT-0700 (Pacific Daylight Time),6
-907,229,60,80,2,2,2,5,2,Wed May 13 2020 114338 GMT-0400 (Eastern Daylight Time),3
-908,88,95,90,5,4,3,6,2,Mon May 11 2020 160459 GMT-0500 (Central Daylight Time),3
-913,330,60,80,3,3,1,5,0,Tue May 12 2020 134732 GMT-0700 (Pacific Daylight Time),4
-914,37,80,80,4,5,4,5,0,Mon May 11 2020 160111 GMT-0500 (Central Daylight Time),4
-917,42,65,75,4,2,2,2,3,Mon May 11 2020 104030 GMT-0700 (Pacific Daylight Time),3
-918,206,60,70,4,4,2,2,0,Mon May 11 2020 122412 GMT-0600 (Mountain Daylight Time),3
-919,378,85,90,5,5,4,6,1,Tue May 12 2020 114342 GMT-0400 (Eastern Daylight Time),4
-921,313,96,95,5,6,5,6,2,Mon May 11 2020 093922 GMT-0500 (Central Daylight Time),6
+,workerId,humanPredictAccuracy,humanPredictSelfAccuracy,reliability,faith,competence,understandability,treatment,surveyTrust
+0,237,90,80,6,4,6,6,1,6
+2,80,50,70,3,4,2,4,0,4
+4,110,60,90,3,4,2,3,0,2
+5,259,90,80,4,1,4,5,2,6
+7,368,4,5,3,4,2,2,2,3
+9,25,50,80,5,4,6,4,3,3
+11,335,60,80,3,4,5,6,2,5
+12,278,70,70,4,3,7,4,2,4
+14,247,100,100,3,2,2,3,0,7
+15,172,100,70,5,7,5,7,3,5
+17,137,75,65,5,5,6,6,3,7
+20,118,65,55,5,6,5,5,3,4
+23,308,80,50,5,4,6,7,3,5
+28,75,75,85,3,2,3,4,2,3
+29,302,100,60,7,2,5,7,1,7
+30,40,85,90,4,6,5,4,2,4
+34,65,80,90,5,5,5,5,0,5
+35,315,45,65,2,4,2,2,2,5
+41,347,83,92,5,5,5,7,0,3
+45,143,98,85,6,7,7,7,3,7
+46,134,90,67,7,5,5,5,3,6
+47,224,80,75,6,6,5,2,1,5
+49,359,70,80,7,6,6,3,2,7
+52,16,90,90,2,4,5,4,2,3
+56,53,70,90,5,4,6,5,3,6
+64,144,80,90,5,1,6,7,1,6
+65,66,90,85,4,4,6,4,0,5
+69,240,50,75,2,3,1,3,2,3
+71,133,80,85,3,3,2,3,0,3
+72,3,60,70,4,6,3,7,3,5
+75,154,70,80,3,5,6,6,0,5
+76,26,85,90,5,4,5,2,1,6
+77,275,100,100,6,5,6,3,3,7
+79,203,65,55,7,4,7,5,3,7
+80,46,85,90,3,1,4,5,2,3
+84,390,40,89,4,4,1,3,0,4
+85,256,80,80,3,3,3,5,0,2
+87,126,75,90,3,4,3,6,2,4
+94,81,80,90,4,5,6,6,2,4
+96,19,80,75,6,5,5,6,3,4
+98,397,80,90,5,5,6,6,2,4
+102,338,50,80,4,7,1,4,3,1
+106,57,50,60,3,3,5,4,2,4
+108,48,85,90,3,4,4,3,0,6
+110,348,60,70,5,5,5,5,0,5
+113,354,55,55,3,5,4,3,3,3
+116,270,90,90,6,7,7,7,3,7
+117,370,70,80,4,5,6,4,0,5
+122,187,66,80,5,4,6,5,3,4
+124,150,80,90,7,6,7,6,3,7
+127,332,80,80,6,5,7,7,3,6
+128,258,95,90,6,5,7,5,2,6
+130,382,40,60,7,7,4,3,0,4
+132,45,80,70,5,4,6,7,0,4
+134,301,70,60,6,5,5,4,3,6
+135,108,70,95,4,1,4,6,0,4
+138,79,54,34,2,3,5,3,1,6
+142,188,75,75,4,4,5,3,2,5
+143,379,85,90,6,2,5,4,0,5
+144,116,75,70,4,2,7,7,3,4
+146,119,25,75,1,4,7,7,0,4
+149,70,90,70,6,5,6,5,1,5
+152,113,75,90,3,5,2,5,1,5
+153,59,90,80,7,6,7,7,1,6
+154,160,90,85,5,4,6,6,1,4
+155,179,50,50,4,4,4,7,2,2
+160,207,70,90,5,4,3,6,0,5
+161,375,65,80,4,2,3,4,2,3
+167,44,80,80,4,4,6,6,2,5
+168,125,50,75,2,1,2,4,3,2
+170,319,65,70,4,4,5,5,0,4
+171,12,70,70,5,1,5,5,2,5
+176,49,60,100,1,2,1,3,0,4
+178,364,90,70,6,6,6,6,1,4
+179,122,75,80,4,4,4,2,0,3
+182,262,85,90,2,2,2,6,2,3
+183,352,90,80,6,4,6,5,3,6
+185,304,50,80,2,2,4,4,0,3
+188,318,70,70,5,6,6,5,3,6
+192,176,70,40,5,4,5,5,1,4
+196,32,80,75,6,5,5,6,3,5
+197,29,80,88,2,3,1,5,0,2
+198,87,90,80,2,3,3,3,3,3
+199,195,70,80,5,4,2,6,0,5
+202,169,70,80,4,3,4,6,0,5
+207,346,90,80,5,5,7,7,2,7
+211,380,67,55,4,4,4,6,3,4
+213,216,70,80,4,4,4,4,1,1
+216,291,80,75,6,4,5,6,0,5
+218,363,90,95,6,4,6,7,3,6
+220,337,90,75,6,5,6,2,1,4
+221,142,79,80,7,6,6,5,0,7
+222,121,75,90,2,3,2,5,0,4
+223,78,70,80,4,4,3,3,1,3
+225,123,95,89,4,4,6,1,2,5
+229,93,85,90,6,5,6,6,1,3
+232,324,80,80,2,6,7,2,2,6
+234,323,90,90,6,2,6,7,1,5
+238,140,20,80,3,6,4,5,2,4
+239,35,70,80,6,4,4,3,0,5
+243,131,70,80,6,6,5,6,0,6
+244,219,75,80,5,6,5,3,2,5
+248,273,30,80,2,2,1,6,0,2
+250,36,75,80,5,5,2,5,0,4
+251,163,80,75,4,4,5,5,2,5
+254,215,65,70,5,6,6,7,1,7
+260,311,50,80,5,3,4,5,0,3
+263,92,40,40,3,2,3,4,1,2
+267,222,60,80,4,1,1,1,2,4
+270,353,75,80,5,3,4,3,0,6
+278,314,75,75,5,5,5,6,2,6
+279,350,69,75,1,1,1,4,1,5
+280,84,70,70,6,5,5,7,2,5
+281,326,99,99,5,6,6,7,0,4
+282,272,40,70,1,1,4,3,0,2
+283,239,60,90,4,2,4,6,3,3
+284,320,40,50,6,5,4,4,3,3
+285,340,15,20,4,3,7,1,3,5
+286,85,85,80,7,7,7,7,3,6
+287,228,90,80,3,5,4,1,3,4
+289,145,80,90,4,3,5,7,1,4
+290,279,75,70,6,6,6,7,2,5
+291,72,80,80,5,5,6,6,3,5
+292,360,65,80,4,5,5,5,0,5
+294,274,70,60,3,4,2,3,1,4
+295,158,92,92,5,4,5,6,1,4
+296,47,100,80,5,4,6,6,1,6
+297,218,95,75,5,5,6,4,3,6
+304,231,80,90,4,5,4,5,3,5
+305,39,80,85,5,6,6,6,0,4
+306,252,80,80,4,3,5,2,3,5
+307,241,65,75,4,4,3,5,3,4
+309,381,99,98,6,6,7,7,3,7
+311,209,75,60,5,5,5,4,3,5
+313,268,80,60,4,5,6,5,3,5
+314,180,75,65,2,5,3,4,2,5
+316,52,70,70,4,3,5,4,0,3
+319,164,90,80,4,6,5,5,2,6
+327,138,90,70,4,4,4,5,0,4
+328,383,90,80,5,1,6,7,1,6
+330,43,60,95,1,1,1,3,2,1
+331,310,80,70,6,5,5,5,3,5
+332,190,80,90,3,2,7,7,0,7
+335,2,70,75,2,3,3,6,0,3
+340,303,80,75,6,6,6,5,3,6
+343,13,90,90,6,6,7,6,3,6
+346,300,50,95,3,3,3,7,2,3
+350,287,100,95,5,7,7,7,0,7
+354,322,80,75,5,5,5,5,3,5
+355,395,95,90,5,3,5,7,0,5
+356,136,96,95,5,5,7,6,3,6
+360,358,70,80,5,5,4,7,3,4
+366,69,70,80,5,4,5,6,1,5
+368,389,70,90,4,3,1,6,2,3
+369,98,60,80,4,3,4,3,0,5
+372,321,70,75,6,5,4,6,1,3
+373,101,50,50,3,3,2,5,3,4
+375,67,70,60,6,5,4,5,3,5
+376,223,90,89,4,3,3,4,0,5
+377,200,60,80,5,3,3,5,0,2
+378,41,70,60,4,4,6,5,1,5
+384,344,80,90,5,5,5,5,1,7
+385,282,100,100,7,7,7,7,1,5
+386,298,80,80,5,5,5,5,1,4
+388,226,70,90,7,4,5,5,3,4
+389,357,90,80,6,7,6,6,2,6
+391,396,7,8,5,5,5,5,3,6
+394,281,99,90,2,4,3,4,0,3
+395,6,70,89,5,7,5,7,2,7
+397,149,70,80,5,4,2,5,1,4
+399,107,85,90,3,2,3,5,1,3
+401,50,94,90,7,6,6,6,3,7
+405,362,85,85,5,5,5,5,1,6
+408,251,95,85,7,2,6,5,1,6
+410,161,70,60,5,4,3,6,3,4
+412,198,85,85,5,7,5,7,3,6
+415,283,70,80,5,5,4,5,0,5
+416,339,95,90,5,5,6,5,1,5
+419,202,60,70,4,1,4,6,3,4
+420,21,75,80,4,5,6,6,1,5
+421,196,90,85,6,6,7,7,0,6
+422,317,80,80,5,4,5,5,1,6
+429,28,8,7,3,3,4,2,0,6
+430,170,90,70,5,4,4,6,3,4
+431,155,45,50,5,4,4,3,3,5
+432,289,95,90,5,3,6,4,3,4
+433,51,80,75,4,5,4,5,2,5
+437,148,70,80,2,3,1,6,0,3
+438,166,90,95,5,4,5,5,3,6
+440,102,98,95,7,6,6,5,1,4
+441,374,50,70,2,2,1,4,3,2
+444,112,50,50,5,4,5,4,0,5
+447,269,100,60,7,7,6,7,0,7
+451,128,98,95,5,6,6,4,1,3
+452,235,90,100,5,1,6,6,1,7
+453,152,60,75,3,6,5,5,0,5
+457,8,100,100,7,6,7,7,1,5
+458,295,85,80,4,5,5,6,0,3
+460,316,68,98,3,1,3,1,1,3
+461,305,70,60,3,3,4,4,3,3
+462,192,85,90,5,5,7,6,1,5
+465,139,90,60,6,6,5,6,2,6
+466,18,75,100,1,1,1,1,0,2
+468,280,95,85,5,5,6,5,1,5
+473,369,95,85,7,6,6,7,1,4
+474,1,80,70,6,4,5,4,2,4
+477,0,90,95,5,2,4,7,1,5
+478,64,23,4,3,2,2,4,2,3
+479,242,97,97,6,5,6,6,2,7
+482,243,60,50,4,4,3,4,3,4
+483,15,90,90,6,5,5,5,3,6
+484,183,40,60,3,3,4,4,3,3
+485,290,75,85,4,3,3,4,2,4
+486,94,66,77,1,2,2,5,0,2
+487,171,80,95,4,4,6,6,1,4
+490,386,90,90,5,5,5,7,1,4
+491,263,75,75,6,6,6,5,2,6
+493,328,90,90,3,5,6,5,2,6
+499,293,85,80,5,4,5,6,2,5
+500,238,60,90,4,3,3,3,2,4
+504,220,50,70,2,3,2,5,3,2
+510,312,85,90,4,4,4,4,3,5
+511,210,80,80,4,5,6,7,2,5
+512,376,85,80,4,6,7,5,0,7
+520,185,35,65,5,5,4,4,2,4
+521,351,80,50,6,7,6,6,3,5
+523,285,70,85,3,3,4,4,0,3
+524,264,85,90,5,4,6,5,1,6
+525,182,90,75,7,7,7,2,1,6
+526,83,75,80,4,5,4,3,0,4
+528,373,60,70,5,5,6,6,2,3
+535,392,90,90,5,4,5,6,1,5
+536,204,80,75,6,5,5,4,0,5
+539,246,90,80,5,4,6,5,1,4
+540,91,80,70,6,5,4,2,3,5
+542,265,90,40,5,4,5,7,2,6
+547,391,70,75,3,4,3,5,3,4
+548,14,90,95,4,4,6,7,0,6
+549,58,70,85,3,4,5,4,0,5
+550,103,65,60,3,2,2,4,1,4
+552,175,85,90,5,5,5,6,3,5
+554,334,80,80,5,4,7,5,0,5
+555,115,89,80,5,5,5,5,2,5
+558,309,75,60,5,5,6,7,2,4
+563,253,75,85,5,6,5,6,3,5
+564,157,95,90,6,6,7,7,3,6
+565,306,70,80,4,6,6,6,1,7
+566,307,8,95,6,6,5,5,0,5
+574,255,75,80,7,7,7,7,2,7
+575,341,50,50,2,1,3,2,2,3
+576,89,80,75,4,5,5,6,3,4
+579,213,75,70,5,6,4,5,2,5
+582,141,70,80,6,5,4,5,0,5
+583,95,80,90,5,5,5,6,3,4
+584,54,50,60,3,3,5,2,2,4
+585,367,70,50,5,7,7,7,1,6
+592,4,85,90,4,5,5,5,1,4
+594,9,50,80,3,3,4,4,0,4
+595,24,70,75,5,3,4,4,3,5
+600,399,90,85,4,4,5,5,3,6
+601,159,65,80,5,2,5,6,0,5
+607,345,85,90,6,1,5,6,0,5
+608,146,50,60,4,1,2,5,3,5
+609,398,99,98,6,5,7,6,0,7
+610,10,85,90,4,1,2,6,2,5
+617,250,75,80,5,6,6,4,1,5
+624,168,92,88,6,5,6,6,2,6
+625,194,80,50,3,5,5,3,2,4
+626,191,70,50,4,4,4,4,3,5
+628,71,80,80,4,4,3,6,1,4
+629,5,60,70,3,4,5,1,2,5
+630,212,70,85,5,4,5,5,0,4
+631,333,80,50,5,4,7,6,3,7
+634,296,50,50,5,5,3,3,2,4
+637,117,54,65,3,4,2,5,0,5
+639,232,65,70,5,6,6,6,2,6
+641,90,80,70,5,5,7,7,3,4
+642,217,75,60,6,5,6,7,0,5
+645,205,90,60,6,5,6,6,0,6
+646,106,75,50,5,6,6,6,3,4
+647,130,90,80,6,5,6,5,3,5
+649,371,87,87,5,5,5,4,0,7
+650,387,90,40,7,7,7,7,1,7
+651,167,50,100,1,1,1,3,3,2
+652,82,55,60,4,4,5,5,2,4
+664,174,90,95,5,5,5,7,1,5
+667,62,60,50,3,3,4,3,2,4
+669,55,75,85,6,6,6,7,3,6
+670,342,75,87,4,1,4,7,0,6
+671,233,80,75,6,4,4,3,2,6
+677,104,50,65,4,4,6,5,1,5
+678,336,80,75,5,5,5,6,0,5
+679,388,50,80,3,3,3,5,2,4
+682,114,80,80,5,5,6,6,2,7
+683,189,80,80,5,5,5,5,3,6
+684,162,50,80,5,4,5,2,3,6
+686,372,80,80,4,4,4,5,0,4
+691,249,85,90,4,4,4,7,3,4
+692,227,75,80,5,5,6,6,3,6
+693,178,70,100,4,2,5,3,0,3
+694,129,90,80,6,4,7,6,1,6
+695,325,75,80,4,2,4,4,0,4
+696,276,70,80,5,2,4,5,0,4
+698,20,85,85,4,6,6,4,2,6
+701,151,80,70,7,6,6,7,1,6
+702,105,75,80,4,3,5,6,1,6
+703,297,85,85,5,4,4,4,0,4
+704,193,70,70,7,6,6,7,2,6
+705,327,95,90,7,6,7,7,1,4
+713,277,65,70,4,1,3,5,3,2
+717,111,90,80,6,6,6,6,3,6
+719,384,90,100,4,4,3,7,1,5
+723,73,70,80,6,6,7,6,1,6
+728,299,87,88,6,6,6,5,2,6
+730,120,80,95,3,2,4,3,0,4
+734,394,60,75,2,3,4,5,2,5
+738,221,88,88,7,7,7,7,3,7
+742,201,80,70,5,6,6,5,1,3
+743,100,75,90,4,4,7,7,2,5
+744,260,90,80,4,6,6,5,0,5
+750,329,80,60,6,5,6,6,0,5
+753,271,12,56,4,4,6,5,3,3
+754,173,80,80,4,4,4,7,0,3
+755,30,100,100,4,3,4,4,3,6
+758,7,95,95,7,7,7,7,2,6
+761,254,85,90,6,5,5,7,1,3
+762,127,80,70,5,4,5,6,1,5
+766,109,70,80,2,3,1,5,0,2
+768,132,90,90,3,4,5,5,2,5
+769,181,50,30,3,4,4,4,2,4
+770,331,95,85,7,4,5,2,0,5
+773,86,80,99,2,5,3,5,1,5
+774,400,25,65,3,3,3,5,2,3
+778,292,50,75,4,3,5,5,2,4
+779,68,80,80,6,6,4,5,1,4
+780,77,90,90,4,5,4,4,0,6
+781,124,60,90,1,1,1,4,0,3
+783,361,85,75,6,6,6,6,1,5
+784,261,60,90,3,3,3,4,2,5
+785,365,70,90,4,2,3,4,3,4
+787,11,70,80,4,3,5,5,2,5
+788,236,50,40,5,3,5,4,0,5
+789,257,80,80,4,4,4,2,1,4
+790,27,70,90,5,6,3,7,2,5
+791,97,90,85,6,4,7,6,3,6
+793,74,55,75,3,5,3,6,2,4
+795,56,70,80,5,2,2,5,0,2
+796,208,60,60,5,3,4,4,2,4
+798,284,85,85,5,4,6,6,1,3
+803,349,80,85,6,4,6,7,1,5
+805,248,75,80,5,4,5,5,0,6
+807,234,100,80,6,7,6,7,2,7
+809,38,70,80,5,4,4,4,3,3
+813,147,90,80,6,6,5,3,1,4
+815,294,50,90,1,1,1,4,0,4
+818,184,80,80,2,4,3,1,0,3
+820,244,75,75,5,4,2,5,1,5
+821,230,97,98,2,3,5,5,2,7
+823,225,90,90,5,5,5,7,1,3
+826,267,85,90,2,2,2,5,3,2
+827,288,60,75,4,5,4,6,1,5
+828,377,65,70,4,3,4,5,3,4
+831,393,91,89,7,7,7,7,2,7
+833,23,70,60,7,5,4,4,3,6
+836,356,98,75,7,7,7,7,3,5
+838,355,90,60,5,6,5,5,1,5
+840,214,80,80,6,6,7,7,1,5
+841,366,70,60,5,5,7,6,2,5
+845,96,80,60,6,1,6,7,0,5
+846,401,80,70,5,6,6,5,1,7
+847,153,95,95,1,3,3,3,3,2
+849,199,45,50,3,3,1,6,1,4
+850,266,80,60,7,7,7,7,2,7
+858,34,80,80,4,4,4,4,2,4
+861,135,90,90,5,5,5,4,1,7
+863,165,70,65,3,4,4,6,2,3
+865,76,95,85,6,5,7,5,0,5
+867,245,85,90,5,3,5,5,3,5
+873,99,89,98,5,6,5,7,2,6
+874,17,75,95,2,2,2,3,0,2
+875,61,85,90,5,5,6,6,2,5
+878,197,70,90,2,2,3,2,3,2
+881,63,90,85,5,4,6,6,2,5
+882,343,75,80,6,5,7,7,3,5
+883,177,70,60,6,4,7,6,2,6
+884,211,60,70,1,3,3,5,2,4
+885,385,88,90,6,6,7,7,1,7
+886,286,100,60,4,3,4,3,0,6
+889,60,75,80,3,3,4,4,3,2
+892,156,50,80,6,5,4,4,3,4
+893,186,90,80,2,2,3,3,3,2
+896,31,52,45,2,3,6,2,2,5
+902,22,75,80,6,5,7,7,2,5
+905,33,65,80,2,3,2,4,1,6
+907,229,60,80,2,2,2,5,2,3
+908,88,95,90,5,4,3,6,2,3
+913,330,60,80,3,3,1,5,0,4
+914,37,80,80,4,5,4,5,0,4
+917,42,65,75,4,2,2,2,3,3
+918,206,60,70,4,4,2,2,0,3
+919,378,85,90,5,5,4,6,1,4
+921,313,96,95,5,6,5,6,2,6
