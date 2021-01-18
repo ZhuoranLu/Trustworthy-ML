@@ -71,7 +71,7 @@ Additionally, some perceptions are not measured in Experiment 1 and 2 due to the
 ## Licensing & Citing
 When using or building upon the data in an academic publication, please consider citing as follows:
 
-Lu, Z., & Yin M. (2021, May). Human Reliance on Machine Learning Models When Performance Feedback is Limited: Heuristics and Risks. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems* 
+Lu, Z., & Yin, M. (2021, May). Human Reliance on Machine Learning Models When Performance Feedback is Limited: Heuristics and Risks. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems* 
  
  [DOI:10.1145/3411764.3445562]
 
